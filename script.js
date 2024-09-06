@@ -23,4 +23,3 @@ startButton.addEventListener('click', () => {
     ball.style.left = posX + 'px';  // 공의 위치를 화면 왼쪽으로
     moveBallSideways();  // 공이 오른쪽으로 이동
 });
-
